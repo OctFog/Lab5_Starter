@@ -16,5 +16,11 @@ Answer:
 Yes, because the “max message length” feature is just one small part of the code. It checks if a message is too long. You can test it by itself without needing to test the whole app, which is perfect for a unit test.
 
 ## GitHub Pages
-- [Expose](https://octfog.github.io/Lab5_Starter/expose)
-- [Explore](https://octfog.github.io/Lab5_Starter/explore)
+- 👉 [Expose](https://octfog.github.io/Lab5_Starter/expose)
+- 👉 [Explore](https://octfog.github.io/Lab5_Starter/explore)
+
+## Screenshots
+### myError
+![myError](./myError.png)
+### merged
+![merged](./merged.png)
